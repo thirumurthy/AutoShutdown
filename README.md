@@ -1,5 +1,5 @@
 # AutoShutdown
-Java Program to shutdown the Windows machine Automatically and send email notification
+Java Program to shutdown the Windows machine Automatically and send email notification for every 1 hour with PC Screenshot.
 # How to Run the File
 Open command prompt and goto location of the jar file and run the folling command<br />
 ```  java -jar AutoShutdown.jar```
